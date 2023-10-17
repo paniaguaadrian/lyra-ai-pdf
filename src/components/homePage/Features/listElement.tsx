@@ -34,7 +34,6 @@ const ListElement = ({
                             {stepLinkText}
                         </Link>
                     ) : null}
-                    .
                 </span>
             </div>
         </li>
